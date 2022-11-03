@@ -10,3 +10,11 @@ Objective:
 
 The database design helps to retrieve, update, and modify the patient’s details to keep track of the patient's health care routine.
 
+Used Language and Tool:
+
+Tool:MySQL
+
+Language:SQL
+
+Server:MySQL server
+
